@@ -11,6 +11,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
+
             <asp:ContentPlaceHolder ID="Message" runat="server">
             </asp:ContentPlaceHolder>
             <asp:ContentPlaceHolder ID="Body" runat="server">

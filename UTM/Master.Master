@@ -6,6 +6,9 @@
 <head runat="server">
     <title></title>
     <asp:ContentPlaceHolder ID="head" runat="server">
+        <link href="Content/bootstrap-grid.min.css" rel="stylesheet" />
+        <script src="Scripts/jquery-3.3.1.min.js"></script>
+        <script src="Scripts/bootstrap.bundle.min.js"></script>
     </asp:ContentPlaceHolder>
 </head>
 <body>
